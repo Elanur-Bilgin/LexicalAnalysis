@@ -1,0 +1,20 @@
+
+ Keyword (DOUBLE) 	
+ Keyword (PRECISION) 	Identifier (DX) 	Symbol (,) 	Identifier (DY) 	Symbol (,) 	Identifier (DZ) 	Identifier (DX) 	AssignmentOp 	RealNumber ( 1.0D0) 	DivideOp	RealNumber (15.0D0) 	Identifier (DY) 	AssignmentOp 	Identifier (DSIN) 	LeftParan 	Identifier (DX) 	RightParan 	Identifier (DZ) 	AssignmentOp 	Identifier (DX) 	Symbol (-) 	Identifier (DY) 	
+ Keyword (PRINT) 	Asteriks 	Symbol (,) 	Identifier (DX) 	Symbol (,) 	Identifier (DY) 	Symbol (,) 	Identifier (DZ) 	Identifier (X) 	AssignmentOp 	RealNumber ( 16.0) 	
+ Keyword (DO) 	ConstantNumber ( 2) 	Identifier (N) 	AssignmentOp 	ConstantNumber ( 1) 	Symbol (,) 	ConstantNumber ( 52) 	Identifier (X) 	AssignmentOp 	RealNumber ( 0.25) 	Asteriks 	Identifier (X) 	Identifier (Y) 	AssignmentOp 	Identifier (F) 	LeftParan 	Identifier (X) 	RightParan 	
+ Keyword (PRINT) 	Asteriks 	Symbol (,) 	Identifier (N) 	Symbol (,) 	Identifier (X) 	Symbol (,) 	Identifier (Y) 	ConstantNumber ( 2) 	
+ Keyword (CONTINUE) 	Identifier (X) 	AssignmentOp 	Identifier (SIN) 	LeftParan 	RealNumber ( 1.0) 	RightParan 	Identifier (Y) 	AssignmentOp 	Identifier (F) 	LeftParan 	RealNumber ( 1.0) 	RightParan 	
+ Keyword (PRINT) 	Asteriks 	Symbol (,) 	Identifier (X) 	Symbol (,) 	Identifier (Y) 	
+ Keyword (STOP) 	
+ Keyword (END) 	
+ Keyword (FUNCTION) 	Identifier (F) 	LeftParan 	Identifier (X) 	RightParan 	
+ Keyword (IF) 	LeftParan 	Identifier (ABS) 	LeftParan 	Identifier (X) 	RightParan 	GreaterThanOrEqualOp 	RealNumber ( 1.9) 	RightParan 	
+ Keyword (THEN) 	Identifier (F) 	AssignmentOp 	Identifier (X) 	Symbol (-) 	Identifier (SIN) 	LeftParan 	Identifier (X) 	RightParan 	
+ Keyword (ELSE) 	Identifier (T) 	AssignmentOp 	Identifier (X) 	Exponentiation 	ConstantNumber ( 3) 	DivideOp	RealNumber (6.0) 	Identifier (F) 	AssignmentOp 	Identifier (T) 	
+ Keyword (DO) 	ConstantNumber ( 2) 	Identifier (N) 	AssignmentOp 	ConstantNumber ( 1) 	Symbol (,) 	ConstantNumber ( 9) 	Identifier (T) 	AssignmentOp 	Symbol (-) 	Identifier (T) 	Asteriks 	Identifier (X) 	Asteriks 	Identifier (X) 	DivideOp	Identifier (REAL)	LeftParan 	LeftParan 	ConstantNumber ( 2) 	Asteriks 	Identifier (N) 	Add 	ConstantNumber ( 2) 	RightParan 	Asteriks 	LeftParan 	ConstantNumber ( 2) 	Asteriks 	Identifier (N) 	Add 	ConstantNumber ( 3) 	RightParan 	RightParan 	Identifier (F) 	AssignmentOp 	Identifier (F) 	Add 	Identifier (T) 	ConstantNumber ( 2) 	
+ Keyword (CONTINUE) 	
+ Keyword (END) 	
+ Keyword (IF) 	
+ Keyword (RETURN) 	
+ Keyword (END) 	
